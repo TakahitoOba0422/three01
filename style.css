@@ -1,0 +1,8 @@
+body, body * {
+  margin: unset;
+  padding: unset;
+}
+canvas {
+  width: 100%;
+  height: 100%;
+}
